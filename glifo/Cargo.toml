@@ -30,6 +30,7 @@ foldhash = { workspace = true }
 core_maths = { workspace = true, optional = true }
 hashbrown = { workspace = true }
 log = { workspace = true }
+kurbo = { workspace = true }
 peniko = { workspace = true }
 skrifa = { workspace = true }
 smallvec = { workspace = true }
